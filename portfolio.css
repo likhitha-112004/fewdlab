@@ -1,0 +1,41 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f0f4f8; /* Added professional background color */
+}
+
+/* Portfolio Page Styles */
+header {
+    background-color: #a4e7fb; /* Colorful header */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+    background-color: #ffe6e6; /* Light pastel background for sections */
+}
+
+h1, h2 {
+    color: #151d59; /* Colorful headings */
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+a {
+    color: #0e1040; /* Colorful links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
